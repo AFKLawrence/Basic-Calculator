@@ -22,7 +22,7 @@ color_white = "white"
 
 #window setup
 window = tkinter.Tk() #create the window
-window.title("Lawrence Calculator")
+window.title("Lawrenc Calculator")
 window.resizable(False, False)
 
 frame = tkinter.Frame(window)
